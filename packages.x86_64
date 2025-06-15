@@ -1,5 +1,5 @@
 bash
-linux-edge
+linux-lts
 linux-firmware
 grub
 grub-efi
