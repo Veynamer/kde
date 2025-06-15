@@ -13,7 +13,7 @@ packages:
  - packages.x86_64
 file_permissions:
  - /etc/shadow|0:0:400
-linux_args: quiet loglevel=4 console=tty31
+linux_args: quiet
 customize_airootfs:
  - customize-airootfs.sh
  - 17g.sh
