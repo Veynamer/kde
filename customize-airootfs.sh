@@ -4,7 +4,7 @@ apk upgrade
 setup-apkrepos -o
 # x11
 apk add xorg-server xf86-input-libinput eudev eudev-openrc mesa-dri-gallium \
-    mesa mesa-gl mesa-utils mesa-osmesa mesa-egl mesa-gles mesa-va-gallium \
+    mesa mesa-gl mesa-utils mesa-egl mesa-gles mesa-va-gallium \
     libva-intel-driver intel-media-driver xf86-video-intel libva-intel-driver \
     intel-media-driver xf86-video-amdgpu xf86-video-nouveau xf86-video-ati \
     xf86-input-evdev xf86-video-modesetting
